@@ -1,0 +1,14 @@
+body{
+	font-size: 150%;
+	background-color:lightgreen;
+}
+h1{
+	font-size: 1.5em;
+}
+.t1{
+	margin-top: 55px;
+
+}
+#navone{
+	margin:25px auto; 
+}
